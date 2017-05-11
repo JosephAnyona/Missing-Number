@@ -1,10 +1,6 @@
 import unittest
 from missing_number import find_missing
 
-
-# ============================================================================
-# unit tests TestCase implementation
-# ============================================================================
 class MissingNumberTest(unittest.TestCase):
     """docstring for MissingNumberTest"""
 
